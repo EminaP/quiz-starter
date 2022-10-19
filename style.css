@@ -1,0 +1,12 @@
+.glavni {
+  margin: 20px;
+  padding: 20px;
+}
+input {
+  border: 2px solid black;
+  text-decoration: black 5px;
+  margin: 20px;
+  padding: 20px;
+  height: 50px;
+  width: 250px;
+}
